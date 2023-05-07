@@ -1,0 +1,14 @@
+name: NCCU_DS2023_hw4_110971017
+title: NCCU_DS2023_hw4_110971017
+username:
+account: kimlin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9046736
+bundleId: 7184247
+url: https://kimlin.shinyapps.io/NCCU_DS2023_hw4_110971017/
+when: 1683439801.4577
+lastSyncTime: 1683439801.45771
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: App1.R|ca.R|ggvisExample/server.r|ggvisExample/ui.r|images/CA.png|images/PCA.png|images/shinyapp_on_rstudio_2_org.png|images/shinyapp_on_rstudio_2.png|images/shinyapp_on_rstudio.png|pca.R|README.md|test.R
